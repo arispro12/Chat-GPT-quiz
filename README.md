@@ -1,6 +1,7 @@
 # Chat-GPT-quiz
 The ultimate chatgpt quiz is here! It is made with python and has got 9 different themes
 It is made with libraries OpenAI, Tkinter and TTkthemes
+If you wonder, The theme is kroc
 It also requires an active API key from OpenAI (Paid)
 Screenshots:
 <img width="492" height="528" alt="image" src="https://github.com/user-attachments/assets/1a297120-28b6-4176-b676-14b7e9edca3c" />
